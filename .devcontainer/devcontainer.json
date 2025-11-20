@@ -1,1 +1,6 @@
+{
+  "name": "Docker Practice",
+  "image": "mcr.microsoft.com/devcontainers/base:alpine",
+  "postCreateCommand": "echo 'Devcontainer ready'"
+}
 
